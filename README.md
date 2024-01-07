@@ -1,4 +1,4 @@
-# Market Index Volatility Forcasting Model
+# Market Index Volatility Forecasting Model
 This project was done with Professor Rajan Pandey from BITS Pilani as an exploration of volatility forecasting during an unprecedented financial market.
 
 As a result of the Covid-19 pandemic, India was thrown into a technical recession. To better understand the impact of this event on the stock market, we can reasonably look to the Bombay Stock Exchange's Market Index, known as Sensex, and its volatility. The Sensex is composed of the 30 largest and most actively traded stocks on the exchange and is considered to be one of the broadest market indices in the country. 
